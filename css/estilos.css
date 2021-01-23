@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.container {
+    width: 900px;
+    margin: 32px auto;
+}
+
+.post {
+    width: 100%;
+    color: #333;
+    box-shadow: 0px 0px 16px #BBBBBB;
+    border-radius: 16px;
+    margin-bottom: 32px;
+}
+
+.post h1 {
+    width: 100%;
+    color: #FFF;
+    background-color: #333;
+    border-radius: 16px 16px 0px 0px;
+    padding: 16px;
+}
+
+.post p {
+    padding: 16px;
+}
